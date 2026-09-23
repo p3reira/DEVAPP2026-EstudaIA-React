@@ -9,8 +9,8 @@ Landing page do EstudaIA, uma plataforma de estudos com IA: mostra como o servi√
 Execute os comandos nesta ordem:
 
 ```bash
-git clone <url-do-reposit√≥rio>
-cd estudaia-react
+git clone https://github.com/p3reira/DEVAPP2026-EstudaIA-React.git
+cd DEVAPP2026-EstudaIA-React
 npm install
 npm run dev
 ```
