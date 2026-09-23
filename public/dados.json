@@ -1,0 +1,26 @@
+{
+  "passos": [
+    { "numero": 1, "titulo": "Informe a matéria", "texto": "Diga qual conteúdo ou disciplina você precisa estudar." },
+    { "numero": 2, "titulo": "Defina a data da prova", "texto": "O EstudaIA usa essa data para distribuir seu tempo de estudo." },
+    { "numero": 3, "titulo": "Receba seu plano", "texto": "Um cronograma dividido em etapas até o dia da avaliação." },
+    { "numero": 4, "titulo": "Estude com apoio da IA", "texto": "Resumos, explicações simplificadas e exercícios de fixação." }
+  ],
+  "recursos": [
+    { "id": 1, "titulo": "Plano semanal de Matemática", "tipo": "Plano", "icone": "🗓️", "descricao": "Cronograma de sete dias para revisar funções, equações e geometria antes da prova." },
+    { "id": 2, "titulo": "Plano intensivo para o vestibular", "tipo": "Plano", "icone": "🗓️", "descricao": "Distribuição das matérias do vestibular em blocos diários até a data do exame." },
+    { "id": 3, "titulo": "Resumo de Biologia celular", "tipo": "Resumo", "icone": "📄", "descricao": "Organelas, membrana plasmática e divisão celular em tópicos curtos." },
+    { "id": 4, "titulo": "Resumo de Revolução Industrial", "tipo": "Resumo", "icone": "📄", "descricao": "Causas, fases e consequências da Revolução Industrial em uma página." },
+    { "id": 5, "titulo": "Resumo de Química orgânica", "tipo": "Resumo", "icone": "📄", "descricao": "Funções orgânicas, nomenclatura e exemplos do dia a dia." },
+    { "id": 6, "titulo": "Explicação de funções do 2º grau", "tipo": "Explicação", "icone": "💡", "descricao": "O que é a parábola, como achar as raízes e o que o delta indica." },
+    { "id": 7, "titulo": "Explicação das leis de Newton", "tipo": "Explicação", "icone": "💡", "descricao": "As três leis explicadas com situações simples, como empurrar um carrinho." },
+    { "id": 8, "titulo": "Exercícios de Redação", "tipo": "Exercício", "icone": "✏️", "descricao": "Propostas de tema e questões sobre estrutura do texto dissertativo." },
+    { "id": 9, "titulo": "Exercícios de Biologia", "tipo": "Exercício", "icone": "✏️", "descricao": "Questões de fixação sobre célula, genética e ecologia." },
+    { "id": 10, "titulo": "Exercícios de Física", "tipo": "Exercício", "icone": "✏️", "descricao": "Problemas de movimento, força e energia com gabarito comentado." }
+  ],
+  "beneficios": [
+    { "titulo": "Organização", "texto": "Menos tempo decidindo o que estudar, mais tempo estudando." },
+    { "titulo": "Foco no essencial", "texto": "Conteúdo priorizado de acordo com o tempo até a prova." },
+    { "titulo": "Menos ansiedade", "texto": "Saber o que fazer a cada dia reduz a sensação de despreparo." },
+    { "titulo": "Estudo ativo", "texto": "Exercícios e revisões para fixar o conteúdo, não só reler." }
+  ]
+}
