@@ -1,16 +1,21 @@
-# React + Vite
+# EstudaIA em React
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+Atividade 3 — interface React feita com IA. Migração para React + Vite do site EstudaIA (Aula 02), uma landing page de plataforma de estudos com recursos filtráveis e um simulador de plano de estudos.
 
-Currently, two official plugins are available:
+## Como rodar
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+```bash
+git clone https://github.com/p3reira/DEVAPP2026-EstudaIA-React.git
+cd DEVAPP2026-EstudaIA-React
+npm install
+npm run dev
+```
 
-## React Compiler
+Abra http://localhost:5173
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Documentos da atividade
 
-## Expanding the Oxlint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+- [DOCUMENTACAO.md](DOCUMENTACAO.md) — o que é, como rodar, versões, arquitetura, componentes, ambiente e IA usada
+- [REQUISITOS.md](REQUISITOS.md) — requisitos funcionais e não funcionais
+- [INSUMOS.md](INSUMOS.md) — referências, paleta, dados e restrições
+- [PROMPTS.md](PROMPTS.md) — o processo, passo a passo
