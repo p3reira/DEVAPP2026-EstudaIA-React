@@ -136,4 +136,4 @@ O que aprendi: a revisão cruzada acertou em pontos reais (aviso de erro, CSS de
 - Console sem erro vermelho: sim
 - Tela estreita (360 px) sem rolagem horizontal: sim
 - Busca, filtro, ordenação e simulador testados: sim
-- Teste de `git clone` em pasta nova + `npm install` + `npm run dev`: ainda não
+- Teste de `git clone` em pasta nova + `npm install` + `npm run dev`: sim
